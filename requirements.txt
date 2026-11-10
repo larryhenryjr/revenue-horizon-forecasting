@@ -1,0 +1,6 @@
+# Time-series data preparation and ARIMA modeling.
+pandas>=2.2,<3
+numpy>=1.26,<3
+statsmodels>=0.14,<1
+# Test runner for reproducibility checks.
+pytest>=8.3,<10
